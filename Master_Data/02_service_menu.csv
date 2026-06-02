@@ -1,0 +1,29 @@
+service_id,service_name,category,base_price,current_price,applicable_gender,duration_min,is_active
+1,Haircut (Men),Hair,250,460,M,30,1
+2,Haircut (Women),Hair,450,910,F,45,1
+3,Hair Colour – Single,Hair,1200,2660,U,60,1
+4,Hair Colour – Global,Hair,2500,6150,U,90,1
+5,Hair Spa,Hair,800,1640,U,45,1
+6,Keratin Treatment,Hair,3000,6950,U,120,1
+7,Hair Straightening,Hair,2000,4850,U,90,1
+8,Hair Styling,Hair,500,1000,U,30,1
+9,Dandruff Treatment,Hair,600,1200,U,30,1
+10,Scalp Treatment,Hair,900,1800,U,45,1
+11,Facial – Gold,Skin,1500,2960,U,60,1
+12,Facial – Platinum,Skin,2500,5850,U,75,1
+13,Oxy Facial,Skin,1800,3230,U,60,1
+14,Bleach,Skin,300,560,F,20,1
+15,D-Tan Pack,Skin,450,900,F,25,1
+16,Manicure,Nail,500,830,U,30,1
+17,Pedicure,Nail,600,1090,U,30,1
+18,Nail Art,Nail,400,780,U,30,1
+19,Beard Trim,Men,150,290,M,15,1
+20,Shaving,Men,100,200,M,15,1
+21,Grooming Package (Men),Men,800,1660,M,45,1
+22,Waxing – Full Arms,Waxing,400,760,F,20,1
+23,Waxing – Full Legs,Waxing,800,1590,F,30,1
+24,Upper Lip Wax,Waxing,80,170,F,5,1
+25,Threading (Eyebrows),Threading,100,190,U,10,1
+26,Bridal Makeup,Makeup,5000,12500,F,120,1
+27,Head Massage,Wellness,200,360,U,20,1
+28,Body Polishing,Wellness,2200,4990,U,60,1
